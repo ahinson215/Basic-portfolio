@@ -1,0 +1,29 @@
+header {
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+
+}
+.Name {
+    background-color: #4aaaa5;
+    color:white;
+    Width: 135px;
+    float: left;
+}
+
+}
+nav {
+    padding-top: 50px;
+
+}
+h1 {
+    border-bottom-style:solid;
+
+    border-bottom-color: #4aaaa5
+}
+
+.container {
+    background-color: white;
+    width:70%;
+    float:right;
+    margin-top: 100px
+}

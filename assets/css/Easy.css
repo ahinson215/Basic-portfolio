@@ -1,0 +1,58 @@
+#layout {
+    
+}
+h1{
+    background-color: black;
+    color:firebrick;
+    text-align: center;
+    Padding: 20px;
+}
+Nav {
+    background-color:grey;
+    color:firebrick;
+    text-align: center;
+    Padding: 20px;
+}
+     
+
+h2{
+    text-align: center;
+}
+
+ section {
+     background-color:grey;
+     padding: 65px;
+     text-align: center;
+     margin-top:40px;
+     width:36%;
+
+ }
+ Aside {
+     background-color:grey;
+     Margin:30px;
+     margin-top:40px;
+     padding: 165px;
+
+ }
+ Article {
+     Background-color: firebrick;
+     padding:100px;
+     
+;
+ }
+ h2 {
+     background-color: white;
+     color: black;
+
+ }
+ p { 
+     background-color: white;
+     color: black;
+     width:30%;
+ }
+ Footer {
+     background-color: gray;
+     Padding:20px;
+     display:flex;
+     align-items:flex-start;
+ }
